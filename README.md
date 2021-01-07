@@ -1,5 +1,6 @@
 <div dir='rtl' align='right'>
-software projects management<br>فعالیت های مربوط به مدیریت پروژه های نرم افزاری<br>
+فعالیت های مربوط به مدیریت پروژه های نرم افزاری</div>
+<div>
 [GitHub](https://github.com/mahdi-mohamadi/)<br>
 [sop](https://github.com/mahdi-mohamadi/sop)<br>
 [Resumes](https://github.com/mahdi-mohamadi/Resumes)<br>
